@@ -288,3 +288,4 @@ __pycache__/
 
 # MC additions
 *.ncrunchsolution
+*.ncrunchproject
